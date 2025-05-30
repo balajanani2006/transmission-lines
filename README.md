@@ -9,7 +9,7 @@ communication, control, and regulatory aspects involved in maximizing its impact
 ![image](https://github.com/user-attachments/assets/834762b5-b249-44e0-9c81-3da59fcbf877)
 
 
-1.Why Transmission Lines are Used in Vehicle-to-Grid (V2G) Integration
+# 1.Why Transmission Lines are Used in Vehicle-to-Grid (V2G) Integration
 Transmission lines play a crucial role in Vehicle-to-Grid (V2G) systems because they facilitate the bidirectional flow of electricity between electric vehicles (EVs) and the power grid. Here’s why they are essential:
 
 High Power Transfer Capability – Transmission lines handle large-scale power exchanges between EVs and the grid, ensuring efficient energy distribution.
@@ -23,7 +23,7 @@ Integration with Renewable Sources – Transmission lines help balance intermitt
 ![image](https://github.com/user-attachments/assets/14d92382-c834-451a-976b-9dda700a6f73)
 
 
-2.Transmission Line Integration Benefits of V2G
+# 2.Transmission Line Integration Benefits of V2G
  Frequency Regulation:
 EVs can inject or absorb power in milliseconds to balance supply and demand.
 
@@ -50,7 +50,7 @@ Demonstrated 15% reduction in peak demand through EV-grid integration.
 Proved that V2G enhances grid resilience and efficiency at the transmission level.
 ![image](https://github.com/user-attachments/assets/7aae8a6e-32f2-480a-87d3-ea70e734cc23)
 
-3. Z-Parameters (Impedance Matrix) for V2G Transmission Lines:
+# 3. Z-Parameters (Impedance Matrix) for V2G Transmission Lines:
 
 For a two-port network (e.g., transmission line between grid and EV):
 
@@ -70,7 +70,7 @@ Key Variables:
 - γ = Propagation constant (γ = α + jβ)
 - l = Line length
 
-4.Conclusion:
+# 4.Conclusion:
 
 Vehicle-to-Grid technology holds immense promise for enhancing the stability and resilience of transmission grids by
 transforming EVs into dynamic grid assets. While significant challenges remain, particularly in infrastructure,
