@@ -1,6 +1,6 @@
 # transmission-lines
-Vehicle-to-Grid (V2G) Integration with
-Transmission Lines:
+# Vehicle-to-Grid (V2G) Integration with Transmission Lines:
+
 This document explores the transformative potential of Vehicle-to-Grid (V2G) technology, specifically focusing on its
 integration at the transmission level to enhance grid stability and facilitate greater utilization of renewable energy sources.
 It outlines the core principles of V2G, its benefits, implementation challenges, infrastructure needs, and the crucial
