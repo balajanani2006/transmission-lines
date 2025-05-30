@@ -51,7 +51,7 @@ Proved that V2G enhances grid resilience and efficiency at the transmission leve
 ![image](https://github.com/user-attachments/assets/7aae8a6e-32f2-480a-87d3-ea70e734cc23)
 
 3. Z-Parameters (Impedance Matrix) for V2G Transmission Lines:
-----------------------------------------------------------
+
 For a two-port network (e.g., transmission line between grid and EV):
 
 [V₁] = [Z₁₁  Z₁₂][I₁]
@@ -70,10 +70,13 @@ Key Variables:
 - γ = Propagation constant (γ = α + jβ)
 - l = Line length
 
-4.Conclusion
+4.Conclusion:
+
 Vehicle-to-Grid technology holds immense promise for enhancing the stability and resilience of transmission grids by
 transforming EVs into dynamic grid assets. While significant challenges remain, particularly in infrastructure,
 communication complexity, and regulatory frameworks, overcoming these will require concerted collaboration among
 policymakers, utilities, automotive manufacturers, and technology providers. Future research should prioritize
 strengthening cybersecurity measures for V2G systems and establishing global standardization for seamless integration
 and optimal performance, paving the way for a more sustainable and flexible energy future.
+![image](https://github.com/user-attachments/assets/ce7f2308-948e-4c3e-a186-7d8e9b4069d1)
+
