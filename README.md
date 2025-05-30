@@ -48,7 +48,7 @@ Real-World Example: AEP Ohio V2G Pilot
 Demonstrated 15% reduction in peak demand through EV-grid integration.
 
 Proved that V2G enhances grid resilience and efficiency at the transmission level.
-![image](https://github.com/user-attachments/assets/7aae8a6e-32f2-480a-87d3-ea70e734cc23)
+![image](https://github.com/user-attachments/assets/6f9d585f-d71e-448d-bd2b-dbc9f2aad3f1)
 
 # 3. Z-Parameters (Impedance Matrix) for V2G Transmission Lines:
 
@@ -78,5 +78,6 @@ communication complexity, and regulatory frameworks, overcoming these will requi
 policymakers, utilities, automotive manufacturers, and technology providers. Future research should prioritize
 strengthening cybersecurity measures for V2G systems and establishing global standardization for seamless integration
 and optimal performance, paving the way for a more sustainable and flexible energy future.
+
 ![image](https://github.com/user-attachments/assets/ce7f2308-948e-4c3e-a186-7d8e9b4069d1)
 
